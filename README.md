@@ -22,7 +22,7 @@ You can find the presentation ppt above which gives you an in-depth view on the 
 
 The api.py code contains sample python code to Read, Write, Update & Delete Records in Netbox with the help of API token provided by Netbox. 
 
-Repo handled by Rohit & Rohan
+
 
 ## Demo Screenshots
 
