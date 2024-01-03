@@ -31,6 +31,7 @@ The api.py code contains sample python code to Read, Write, Update & Delete Reco
 
 
 ## References
+The following are few useful resources we came across
 - [Viatto Netbox Playlist](https://www.youtube.com/watch?v=IVQz2eNhzT0&list=PLyTbxCw0LLUpTQOGi0IJQbEao1wt6ZSQZ)
 - [Netbox Official Documentation](https://docs.netbox.dev/en/stable/)
 
