@@ -30,3 +30,8 @@ The api.py code contains sample python code to Read, Write, Update & Delete Reco
 ![Rack](https://github.com/rohitarrunachalam/gorilla-netbox/assets/93265718/668d035f-f77e-46fb-9a72-109b996ba5c9)
 
 
+## References
+- [Viatto Netbox Playlist](https://www.youtube.com/watch?v=IVQz2eNhzT0&list=PLyTbxCw0LLUpTQOGi0IJQbEao1wt6ZSQZ)
+- [Netbox Official Documentation](https://docs.netbox.dev/en/stable/)
+
+
