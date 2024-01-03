@@ -1,4 +1,4 @@
-# NetBox Repository
+# Gorilla Technology - Netbox
 
 This repository contains documentation, API code, and demo screenshots for Netbox, an open-source web application designed to help manage and document computer networks.
 
